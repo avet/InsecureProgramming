@@ -7,3 +7,6 @@ Do not run this code in production environment!
 We suggest to run those code snippets (if you really need to do so) in the following way:
 
 python -OOBRstt script_name.py 
+
+## Best Practices for security review
+In the Python-source-code-review-Best-practices.pdf file you can find our best practices for reviewing Python code for security related defects.
